@@ -1,4 +1,4 @@
-![Logo](https://avatars.githubusercontent.com/u/1119453?s=200&v=4)
+![Logo](https://www.browserstack.com/images/static/header-logo.jpg)
 
 # API and Unit tests on Observability
 
